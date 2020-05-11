@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "me.sunny.jhpster.demo",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "demo",
+    "packageName": "me.sunny.jhpster.demo",
+    "packageFolder": "me/sunny/jhpster/demo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NWVhYTEyNGFlYjE3OTVlMjY3NjA0ZjVjNmRjYmJmMzNmYTBlOGUyZGMyYmNlYmFkMDk5N2QwNzc1NjEzYjZlNTA1ZjdmMzIzYzU0N2FlMzIwMGJlZGY2MTFiN2IyN2I0MmE0OTBiYzkxYzQ5NDkzNjQzYzliODZjN2ZkN2U2ZDc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1589191618727,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
